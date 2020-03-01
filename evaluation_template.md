@@ -136,7 +136,7 @@ Describe the process that you needed to follow:
 
 1. did you need to look for additional help in installing the environment? <br>
 
-1. any other comments? <br> 
+1. any other comments? <br>
 
 
 
@@ -144,11 +144,11 @@ Describe the process that you needed to follow:
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-<!--
-Explain your position. Do NOT simply say 'yes or 'no'.
--->
+	<!--
+	Explain your position. Do NOT simply say 'yes or 'no'.
+	-->
 
 1. Would you be interested in contributing to this particular project? <br>
-<!--
-Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
--->
+	<!--
+	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
+	-->
