@@ -1,21 +1,18 @@
 # Project Name:  OpenStreetMap
 
 
-
 **Evaluating Person or Team**:
 Jennifer Lopez || [Jen-Lopez](https://github.com/Jen-Lopez)
-
 ---
 
 ## Project Data
 
 1. Project description: <br>
-<!-- What is the purpose of this project? What does the code do? What type of users does it have?-->
 OpenStreetMap is an open source community-driven project that allows users to access, modify, and redistribute map data. The code powers up the **map of the world** that local users can improve for an accurate representation of their area.
 
 2. Project website/homepage: [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
 
-3. Project repository: [OpenStreetMap Site Repo] (https://github.com/openstreetmap/openstreetmap-website)
+3. Project repository: [OpenStreetMap Site Repo](https://github.com/openstreetmap/openstreetmap-website)
 
 
 
@@ -33,42 +30,34 @@ different licenses on specific files, but the project will have a main license.
 ## Code Base
 
 
-1. What is the primary programming language in the project?
+1. What is the primary programming language in the project?  <br>
 The primary programming language is Ruby.
 
 2. What is the development environment? <br>
-
 A contributor is able to install the software directly on their ubuntu, Fedora, or MacOS based machines. Windows machines, on the other hand, will be a difficult environment to work in so it's recommended to use vagrant. Vagrant installs the software onto a virtual machine that keeps a proper development environment.
 
 
 3. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
-
 The readme file has a direct link to [installation](https://github.com/openstreetmap/openstreetmap-website/blob/master/INSTALL.md) instructions, where contributors learn about the requirements needed for development. When contributors have installed dependencies, they can navigate to the [contribution](https://github.com/openstreetmap/openstreetmap-website/blob/master/CONTRIBUTING.md) file that outlines everything from coding style, documenting code, to testing. The instructions were relatively easy to find and follow.
 
 4. Does the project depend on external additional software modules such as
 database, graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
-
 The project uses many external software modules (e.g. node.js modules, a PostgreSQL database, etc.) that are all clearly detailed in the installation file.
 
-5. Is the code easy to understand? Browse some source code files and make
-a judgment based on your random sample. <br>
-
+5. Is the code easy to understand? Browse some source code files and make a judgment based on your random sample. <br>
 The code is not easy to understand because there is no proper documentation. One can learn syntax for ruby on their own, but it'd be hard to understand what a source code file does without any comment on it's functionality/purpose.
 
 6. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
-
 According to OpenHub, the OpenStreetMap website is powered by about 208K lines of code! Thus, the project is big and will continuously grow with new contributors.
 
 7. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
-
 Yes there are tests. There is more information on testing in the [contributing](https://github.com/openstreetmap/openstreetmap-website/blob/master/CONTRIBUTING.md) file, but overall, the tests are meant speed up deployment of new code. When adding a new feature, contributors have to create new tests that covers the new functionality.
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
-
 There is no clear documentation in the code, even though it is encouraged in the contributions file.
 
 2. Is there documentation about the design?  <br>
@@ -79,14 +68,12 @@ There is no clear documentation in the code, even though it is encouraged in the
 
 
 1. How many commits have been made in the past week? <br>
-
 Between Feb. 24 to March 3rd, there's only been 8 commits.
 
 2. When was the most recent commit? <br>
 The most recent commit was on March 2nd.
 
 3. How many issues are currently open? <br>
-
 There are 373 open issues that are open.
 
 4. How long do issues stay open? <br>
