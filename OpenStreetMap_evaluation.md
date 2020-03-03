@@ -136,7 +136,7 @@ Describe the process that you needed to follow:
 If you're installing all the necessary software directly onto your machine, all you need to do is follow the instructions in the installation file carefully. In this case, you need to go to each software's website to download the software or use a package manager like Homebrew to install them for you. Once you have the minimum requirements, you can clone the repo. It's a lot for a beginner to handle, but I found the installation file detailed and easy enough to follow.
 
 2. how long it take you? <br>
-It took me about an hour to try to get the development environment since I've never done this before. But other people who do have some experience with installing packages will take less time.
+It took me about half an hour to try to get the development environment since I've never done this before. But other people who do have some experience with installing packages will take less time.
 
 3. did you need to install additional packages or libraries? <br>
 Yes. Most of the packages were installed using Homebrew.
