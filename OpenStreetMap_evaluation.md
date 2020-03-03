@@ -61,11 +61,9 @@ Yes there are tests. There is more information on testing in the [contributing](
 There is no clear documentation in the code, even though it is encouraged in the contributions file.
 
 2. Is there documentation about the design?  <br>
-
-
+No, there is no document on design. From one of the issue comments, they don't have many design-oriented contributors.
 
 ## Activity Level
-
 
 1. How many commits have been made in the past week? <br>
 Between Feb. 24 to March 3rd, there's only been 8 commits.
@@ -77,51 +75,57 @@ The most recent commit was on March 2nd.
 There are 373 open issues that are open.
 
 4. How long do issues stay open? <br>
-	<!--
-	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
-	Compute the number of days that each was open and take the average.
-	-->
+The amount of time issues remain open varies. Issues were either resolved the same day, took a week-long or even a month-long response!
 
 5. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
+There is active back and forth dialogue between the issuer and the repo maintainer to determine how the issue can be resolved.
 
 6. Are issues tagged as easy, hard, for beginners, etc.? <br>
+The majority of issues are not tagged, which would make it hard to differentiate between issues as a beginner.
 
 7. How many issues were closed in the past six months? <br>
+In the past 6 months, 44 issues were closed.
 
 8. Is there information about how many people are maintaining the project? <br>
+The names and Github handles of the maintainers are on the [readme](https://github.com/openstreetmap/openstreetmap-website/blob/master/README.md) file.
 
 9. How many contributors has the project had in the past six months? <br>
+In the past 6 months, there have been 22 contributors.
 
 10. How many open pull requests are there? <br>
+There are 47 pull requests.
 
 11. Do pull requests remain un-answered for a long time? <br>
-	<!--
-	Look at the closed pull requests to see how long they stayed open.
-	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
-	Compute the number of days that each was open and take the average.
-	-->
+Responsiveness to merging pull requests varies. Some pull requests were closed within the same day. Other pull requests, on the other hand, took weeks to close.
 
 12. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
+Similar to issues, there is also an active discussion on pull requests. Usually, discussion surrounds on what the pull request addresses and testing prior to merge.
 
 13. How many pull requests were opened within the past six months? <br>
+There were 13 pull requests opened in the past 6 months.
 
 14. When was the last  pull request  merged? <br>
+The last pull request was merged on  March 2nd.
 
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
+Yes, the contributing document is in the repository. It's a well detailed document with sections, so it's easy to find what you need.
 
 2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
+Unfortunately, there is no Code of Conduct.
 
 3. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
+The maintainers provide guidance to each issue. There are two maintainers so it's either a response from one or the other or both. However, I did notice that at times, one of the maintainers sounds "frustrated" when replying to new feature queries/updates (e.g. "Talking about it endlessly will achieve nothing").
 
 4. Are people friendly in the issues, discussion forum, and chat? <br>
+The people who post issues and respond to them sound like coworkers so work-wise, it sounds friendly.
 
 5. Do maintainers thank people for their contributions? <br>
-
+No, maintainers do not thank people for their contributions.
 
 ## Development Environment Installation
 
@@ -146,11 +150,7 @@ Describe the process that you needed to follow:
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+This is a project that can be *possible* but **challenging** to contribute to at the end of the semester. It requires foundational knowledge of Ruby and the repository, along with the source code files, is very disorganized. Although resources for installing the development environment is well documented, it requires a lot of dependencies and modules that can go above the head of a new contributor. Overall, this project left the impression that it's not beginner friendly.
 
 2. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+  Personally, I would not like to contribute to this project. First of all, the primary language used is Ruby, which is something I don't have experience with. Even if I tried to learn, the source code isn't properly commented to help future contributors. Most importantly, the project does not have a code of conduct or guidelines for behavior. This raises a red flag since the safety/well-being of contributors is not valued.
