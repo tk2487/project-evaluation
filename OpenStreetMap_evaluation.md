@@ -19,7 +19,7 @@ OpenStreetMap is an open source community-driven project that allows users to ac
 ## License
 
 1. What is the project's license? <br>
-The project has a GNU General Public License.
+The project has a GNU General Public License v2.0.
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
@@ -69,13 +69,13 @@ No, there is no document on design. From one of the issue comments, they don't h
 Between Feb. 24 to March 3rd, there's only been 8 commits.
 
 2. When was the most recent commit? <br>
-The most recent commit was on March 2nd.
+March 2nd, 2020.
 
 3. How many issues are currently open? <br>
-There are 373 open issues that are open.
+373 open issues
 
 4. How long do issues stay open? <br>
-The amount of time issues remain open varies. Issues were either resolved the same day, took a week-long or even a month-long response!
+The amount of time issues remain open varies. Issues were either resolved the same day, took a week-long or even a month-long response! The average is about 2 days.
 
 5. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
 There is active back and forth dialogue between the issuer and the repo maintainer to determine how the issue can be resolved.
@@ -84,25 +84,25 @@ There is active back and forth dialogue between the issuer and the repo maintain
 The majority of issues are not tagged, which would make it hard to differentiate between issues as a beginner.
 
 7. How many issues were closed in the past six months? <br>
-In the past 6 months, 44 issues were closed.
+44 issues were closed.
 
 8. Is there information about how many people are maintaining the project? <br>
 The names and Github handles of the maintainers are on the [readme](https://github.com/openstreetmap/openstreetmap-website/blob/master/README.md) file.
 
 9. How many contributors has the project had in the past six months? <br>
-In the past 6 months, there have been 22 contributors.
+There have been 22 contributors.
 
 10. How many open pull requests are there? <br>
-There are 47 pull requests.
+47 pull requests.
 
 11. Do pull requests remain un-answered for a long time? <br>
-Responsiveness to merging pull requests varies. Some pull requests were closed within the same day. Other pull requests, on the other hand, took weeks to close.
+Responsiveness to merging pull requests varies. Some pull requests were closed within the same day. Other pull requests, on the other hand, took weeks to close. So, it took an average of about 3 days. Pull requests that merge quickly are the ones that pass the tests.
 
 12. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
 Similar to issues, there is also an active discussion on pull requests. Usually, discussion surrounds on what the pull request addresses and testing prior to merge.
 
 13. How many pull requests were opened within the past six months? <br>
-There were 13 pull requests opened in the past 6 months.
+13 pull requests opened in the past 6 months.
 
 14. When was the last  pull request  merged? <br>
 The last pull request was merged on  March 2nd.
@@ -133,14 +133,19 @@ Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
+If you're installing all the necessary software directly onto your machine, all you need to do is follow the instructions in the installation file carefully. In this case, you need to go to each software's website to download the software or use a package manager like Homebrew to install them for you. Once you have the minimum requirements, you can clone the repo. It's a lot for a beginner to handle, but I found the installation file detailed and easy enough to follow.
 
 2. how long it take you? <br>
+It took me about an hour to try to get the development environment since I've never done this before. But other people who do have some experience with installing packages will take less time.
 
 3. did you need to install additional packages or libraries? <br>
+Yes. Most of the packages were installed using Homebrew.
 
 4. were you able to build the code following the instructions? <br>
+Yes, I was able to build the code.
 
 5. did you need to look for additional help in installing the environment? <br>
+No I just used the installation guide in the project repository.
 
 6. any other comments? <br>
 
