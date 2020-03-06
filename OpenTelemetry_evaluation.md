@@ -9,7 +9,8 @@
 
 ## Project Data
 
-1. Project description: Provides an observability framework (tracing, metrics, logging) to help analyze systems. <br>
+1. Project description: <br>
+	Provides an observability framework (tracing, metrics, logging) to help analyze systems. 
 <!--
 What is the purpose of this project? What does the code do? What type of users
 does it have? 
